@@ -43,6 +43,12 @@ main = animate (InWindow "Tortue-Volante" (1000, 1000) (0, 0)) white "element a 
 main = animate (InWindow "L-système" (1000, 1000) (0, 0)) white "element a modifier" -- retirer les ""
 ```
 
-## Sujet : 
+## Sujet :
 
 Le sujet ainsi que les consignes à réaliser se trouvent dans le dossier `sujet/`
+
+---
+
+<img src="assets/UL-2014.png" width=250px>
+
+__Université de Lille - 2020/2021__
