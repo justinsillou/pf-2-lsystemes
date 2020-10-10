@@ -6,13 +6,9 @@ SILLOU Justin Groupe 2 (B)
 
 Pour récupérer l'archive :
 ```console
-git clone https://gitlab-etu.fil.univ-lille1.fr/sillou/pf-2-lsystemes.git
+git clone https://github.com/justinsillou/pf-2-lsystemes
 ```
 
-_Ou cloner le dépôt en SSH :_
-```console
-git clone git@gitlab-etu.fil.univ-lille1.fr:sillou/pf-2-lsystemes.git
-```
 ##  Contenu du dépôt
 
 L-système et Tortue se trouvent dans : `lsysteme.hs` et `tortue_volante.hs`
@@ -46,3 +42,7 @@ Que vous pouvez modifier dans le main :
 main = animate (InWindow "Tortue-Volante" (1000, 1000) (0, 0)) white "element a modifier" --retirer les ""
 main = animate (InWindow "L-système" (1000, 1000) (0, 0)) white "element a modifier" -- retirer les ""
 ```
+
+## Sujet : 
+
+Le sujet ainsi que les consignes à réaliser se trouvent dans le dossier `sujet/`
